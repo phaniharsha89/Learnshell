@@ -2,3 +2,5 @@ Contents
 Variables
 comments
 Diagrams
+Errors
+Modifications
