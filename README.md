@@ -1,6 +1,1 @@
-Contents
-Variables
-comments
-Diagrams
-Errors
-Modifications
+Learning the shell Scripting
